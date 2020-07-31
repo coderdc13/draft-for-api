@@ -13,7 +13,7 @@ Harold was really impressed with your work on this planner, but commented that 3
 
 ## Budget Analysis
 From the table of expenses per category, it seems that expenditures of food and drink take a significant number of transactions. Directly below is the bar chart for expenditures by category.
-(budget_table_account_one.JPG)
+![alt_text](budget_table_account_one.JPG)
 
 
 ## Retirement Planning
