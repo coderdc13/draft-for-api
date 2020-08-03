@@ -83,3 +83,6 @@ There were optional challenges of trying to gain more money for retirement by st
 ![alt_text](nine.JPG)
 
 
+
+
+In general, for all of the graphs, one may note that devoting more money to the initial investment leads to more money available as a return. Also, one may note that given how the confidence interval determines how most investment simulations progress, the confidence interval behaves like a bell curve, with the simulations on the left (from the perspective of the reader) being the lowest performing simulations and the simulations on the right (from the perspective of the reader) being the highest performing simulations. Ideally, one would wish for a large initial investment with an investment simulation that goes to the very right and maximizes the return.
