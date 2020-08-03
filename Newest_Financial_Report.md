@@ -27,7 +27,7 @@ In addition, the expenditures were expressed in terms of a pie chart (shown dire
 ![alt_text](three.JPG)
 
 
-Monthly expenditures were also calculated and expressed in terms of a bar chart directly below (the time of submission of this assignment determined the singularity of the bar). This bar chart provides an illustration of the amount of money spent in July 2020.
+Monthly expenditures were also calculated and expressed in terms of a bar chart directly below. This bar chart provides an illustration of the amount of money spent in July 2020. Also, this chart provides other months in 2020.
 
 
 
@@ -47,7 +47,7 @@ The trajectories of simulated projections for the portfolio were given. These tr
 
 
 
-In addition, the distribution of the ending returns was set in a graph with the ninety percent confidence interval bound by vertical red bars (directly below). The possibilities for the ending returns were arranged (as a prelude to a standardized (aka bell) curve), and the area between the vertical red bars marks 90% of the realm of possibilities for outcomes.
+In addition, the distribution of the ending returns was set in a graph with the ninety percent confidence interval bound by vertical red bars (directly below). The possibilities for the ending returns were arranged (as a prelude to a standardized (aka bell) curve), and the area between the vertical red bars marks 90% of the realm of possibilities for outcomes. Essentially, based on the simulations, the ninety percent confidence interval may be considered as where ninety percent of the simulations fall and the corresponding returns.
 
 
 
@@ -61,7 +61,7 @@ In addition, the distribution of the ending returns was set in a graph with the 
 ## Challenges
 
 
-For the optional challenge, the simulations of the portfolio with different trajectories based on percentile (of return) were provided as a function of time (provided directly below).
+For the optional challenge, the simulations of the portfolio with different trajectories based on percentile (of return) were provided as a function of time (provided directly below). 
 
 
 
@@ -77,7 +77,7 @@ Also, in terms of the optional challenge, the portfolio performance over time wa
 
 
 
-There were optional challenges of trying to gain more money for retirement by starting with an increased investment (more than twenty thousand dollars) and by investing with more risk. The student author calculated and listed the percentiles based on bigger initial investments (increased by one and a half, doubled, tripled). The student author also made a graph (presented below) of the projected portfolio returns with greater risk, that is, the weight of stock and bond as .9 and .1 (that is, 90% stock and 10% bond).
+There were optional challenges of trying to gain more money for retirement by starting with an increased investment (more than twenty thousand dollars) and by investing with more risk. The student author calculated and listed the percentiles based on bigger initial investments (increased by one and a half, doubled, tripled). These answers were provided. The student author also made a graph (presented below) of the projected portfolio returns with greater risk, that is, the weight of stock and bond as .9 and .1 (that is, 90% stock and 10% bond).
 
 
 ![alt_text](nine.JPG)
