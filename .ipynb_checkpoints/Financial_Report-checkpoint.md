@@ -69,7 +69,7 @@ For the optional challenge, the simulations of the portfolio with different traj
 ![alt_text](optional_one_of_two.JPG)
 
 
-Also, in terms of the optional challenge, the portfolio performance over time was graphed with different trajectories based on percentile (of return) were provided as a function of time (provided directly below).
+Also, in terms of the optional challenge, the portfolio performance over time was graphed with different trajectories based on percentile (of return) were provided as a function of time (provided directly below). The percentiles were for the ninety-fifth, fiftieth, and fifth percentiles. 
 
 
 
