@@ -27,7 +27,7 @@ In addition, the expenditures were expressed in terms of a pie chart (shown dire
 ![alt_text](three.JPG)
 
 
-Monthly expenditures were also calculated and expressed in terms of a bar chart directly below. This bar chart provides an illustration of the amount of money spent in July 2020. Also, this chart provides other months in 2020.
+Monthly expenditures were also calculated and expressed in terms of a bar chart directly below. This bar chart provides an illustration of the amount of money spent in July 2020. Also, this chart provides expenditures for other months in 2020: April 2020, May 2020, June 2020.
 
 
 
@@ -69,7 +69,7 @@ For the optional challenge, the simulations of the portfolio with different traj
 ![alt_text](seven.JPG)
 
 
-Also, in terms of the optional challenge, the portfolio performance over time was graphed with different trajectories based on percentile (of return) were provided as a function of time (provided directly below). The percentiles were for the ninety-fifth, fiftieth, and fifth percentiles. 
+Also, in terms of the optional challenge, the portfolio performance over time was graphed with different trajectories based on percentile (of return) were provided as a function of time (provided directly below). The percentiles were for the ninety-fifth, fiftieth, and fifth percentiles. The curve for the ninety-fifth percentile is blue and reaches the greatest y value on the Cartesian graph. In terms of the curve for the fiftieth percentile, the curve for the fiftieth percentile is orange. The curve for the fifth percentile is green.
 
 
 
@@ -77,7 +77,23 @@ Also, in terms of the optional challenge, the portfolio performance over time wa
 
 
 
-There were optional challenges of trying to gain more money for retirement by starting with an increased investment (more than twenty thousand dollars) and by investing with more risk. The student author calculated and listed the percentiles based on bigger initial investments (increased by one and a half, doubled, tripled). These answers were provided. The student author also made a graph (presented below) of the projected portfolio returns with greater risk, that is, the weight of stock and bond as .9 and .1 (that is, 90% stock and 10% bond).
+There were optional challenges of trying to gain more money for retirement by starting with an increased investment (more than twenty thousand dollars) and by investing with more risk. The student author calculated and listed the percentiles based on bigger initial investments (increased by one and a half, doubled, tripled). These answers were provided (and reproduced below). 
+
+
+
+
+
+
+![alt_text](decem.JPG)
+
+
+
+
+
+
+
+
+The student author also made a graph (presented below) of the projected portfolio returns with greater risk, that is, the weight of stock and bond as .9 and .1 (that is, 90% stock and 10% bond).
 
 
 ![alt_text](nine.JPG)
